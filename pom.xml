@@ -13,8 +13,6 @@
         <module>qomolangma-algorithm</module>
         <module>qomolangma-resolve</module>
         <module>qomolangma-support</module>
-        <module>qomolangma-project</module>
-        <module>qomolangma-project/qomolangma-mini-mybatis</module>
     </modules>
 
     <properties>
