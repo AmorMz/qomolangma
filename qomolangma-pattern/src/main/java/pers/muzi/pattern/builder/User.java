@@ -1,4 +1,4 @@
-package pers.muzi.builder;
+package pers.muzi.pattern.builder;
 
 public class User {
   private String name;

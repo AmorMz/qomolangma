@@ -1,4 +1,4 @@
-package pers.muzi.builder;
+package pers.muzi.pattern.builder;
 
 public class Main {
   public static void main(String[] args) {
